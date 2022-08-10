@@ -2,9 +2,11 @@
 
 Cryptocentric is an app that allows users to view details on different cryptocurrencies.
 
-<img width="1440" alt="Screenshot 2022-08-10 at 01 31 08" src="https://user-images.githubusercontent.com/66224847/183787617-6b0eccf7-8afe-49e6-8991-41c56fdc3731.png">
-<img width="1440" alt="Screenshot 2022-08-10 at 01 31 32" src="https://user-images.githubusercontent.com/66224847/183787645-fba80f75-5b77-4143-97fc-b555ce18b271.png">
-<img width="1440" alt="Screenshot 2022-08-10 at 01 31 43" src="https://user-images.githubusercontent.com/66224847/183787692-ce81c433-32e6-455a-b05b-e1fdbdd0b454.png">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/66224847/183872538-9fdd0e5b-6993-4488-85f7-01ae8082d48a.png" width="300" />
+  <img src="https://user-images.githubusercontent.com/66224847/183872563-68f4233d-edff-493f-8a7f-040d7f056407.png" width="300" /> 
+  <img src="https://user-images.githubusercontent.com/66224847/183872568-d77c8c03-caf1-468c-9dbb-7e2ae297ba1d.png" width="300" />
+</p>
 
 ### Tools Used: ###
 * Swift
